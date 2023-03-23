@@ -1,4 +1,4 @@
-# IntroToElixir
+# TestingElixir
 
 Elixir is a dynamic, functional programming language built on top of the Erlang virtual machine (BEAM). It was designed to be scalable, fault-tolerant, and easily extensible, making it well-suited for building distributed and concurrent systems.
 
